@@ -17,7 +17,7 @@ This Reddit Comment Bot is a python-based auto-responder.
 4. **type:** Script
 5. **description:** Optional
 6. **about url:** Optional
-7. **redirect uri:** http://localhost:8080
+7. **redirect uri:** Set an uri
 8. Note the outputted *client id* and *secret*
 
 ###### praw.init:
